@@ -1,4 +1,25 @@
+/* .text-center{
+    border-radius: 3px;
+} */
 
+.inlineStuff{
+    background: transparent;
+    background-color: rgba(222, 193, 250, 0.2);
+	left: 44%;
+	top: 40%;
+	position: absolute;
+	border-radius: 10px;
+}
+.slideSize{
+    padding-top: 80px;
+    height: 800px;
+    width: 800px;
+    border-radius: 15px;
+    margin: auto;
+}
+.row{
+    margin-top: 140px;
+}
 /* 
 
     You can write your own styles here...
