@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 
+const saverImg = "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg";
+
 function App() {
 	useEffect(() => {
 		Aos.init();
@@ -11,12 +13,12 @@ function App() {
 				<div className="row">
 					<div
 						data-aos="fade-zoom-in"
-						data-aos-offset="100"
+						data-aos-offset="300"
 						className="col-11 col-md-6 col-lg-3 mx-0 mb-4">
 						<div className="card p-0 overflow-hidden h-100 shadow">
 							<img
 								className="card-img-top"
-								src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg"
+								src={saverImg}
 								alt="Card image cap"
 							/>
 							<div className="card-body">
@@ -27,22 +29,17 @@ function App() {
 									content. This content is a little bit
 									longer.
 								</p>
-								<p className="card-text">
-									<small className="text-muted">
-										Last updated 3 mins ago
-									</small>
-								</p>
 							</div>
 						</div>
 					</div>
 					<div
 						data-aos="fade-zoom-in"
-						data-aos-offset="100"
+						data-aos-offset="300"
 						className="col-11 col-md-6 col-lg-3 mx-0 mb-4">
 						<div className="card p-0 overflow-hidden h-100 shadow">
 							<img
 								className="card-img-top"
-								src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg"
+								src={saverImg}
 								alt="Card image cap"
 							/>
 							<div className="card-body">
@@ -52,23 +49,18 @@ function App() {
 									below as a natural lead-in to additional
 									content. This content is a little bit
 									longer.
-								</p>
-								<p className="card-text">
-									<small className="text-muted">
-										Last updated 3 mins ago
-									</small>
-								</p>
+								</p>							
 							</div>
 						</div>
 					</div>
 					<div
 						data-aos="fade-zoom-in"
-						data-aos-offset="200"
+						data-aos-offset="300"
 						className="col-11 col-md-6 col-lg-3 mx-0 mb-4">
 						<div className="card p-0 overflow-hidden h-100 shadow">
 							<img
 								className="card-img-top"
-								src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg"
+								src={saverImg}
 								alt="Card image cap"
 							/>
 							<div className="card-body">
@@ -78,23 +70,18 @@ function App() {
 									below as a natural lead-in to additional
 									content. This content is a little bit
 									longer.
-								</p>
-								<p className="card-text">
-									<small className="text-muted">
-										Last updated 3 mins ago
-									</small>
-								</p>
+								</p>							
 							</div>
 						</div>
 					</div>
 					<div
 						data-aos="fade-zoom-in"
-						data-aos-offset="200"
+						data-aos-offset="300"
 						className="col-11 col-md-6 col-lg-3 mx-0 mb-4">
 						<div className="card p-0 overflow-hidden h-100 shadow">
 							<img
 								className="card-img-top"
-								src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg"
+								src={saverImg}
 								alt="Card image cap"
 							/>
 							<div className="card-body">
@@ -104,12 +91,7 @@ function App() {
 									below as a natural lead-in to additional
 									content. This content is a little bit
 									longer.
-								</p>
-								<p className="card-text">
-									<small className="text-muted">
-										Last updated 3 mins ago
-									</small>
-								</p>
+								</p>							
 							</div>
 						</div>
 					</div>

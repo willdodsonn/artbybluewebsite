@@ -13,10 +13,10 @@ const image1 =
 const Home = () => {
 	return (
 		<div>
-			<Parallax bgImage={image1} strength={500}>
-				<div style={{ height: 1000 }}>
+			<Parallax bgImage={image1} strength={400}>
+				<div style={{ height: 900 }}>
 					<div className="inlineStuff">
-						<h1 className="text-center">This is Art</h1>
+						<h1 className="text-center"><Welcome></Welcome></h1>
 					</div>
 				</div>
 			</Parallax>
@@ -24,6 +24,9 @@ const Home = () => {
 				<TheSlides />
 			</div>
 			<div>
+				<App />
+				<App />
+				<App />
 				<App />
 			</div>
 
