@@ -1,7 +1,8 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 
-const saverImg = "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700450751.jpg";
+const saverImg =
+	"https://c4.wallpaperflare.com/wallpaper/574/417/275/aesthetic-vaporwave-wallpaper-preview.jpg";
 
 function App() {
 	useEffect(() => {
@@ -21,14 +22,16 @@ function App() {
 								src={saverImg}
 								alt="Card image cap"
 							/>
-							<div className="card-body">
+							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									This is a wider card with supporting text
-									below as a natural lead-in to additional
-									content. This content is a little bit
-									longer.
+									these cards are underdeveloped just like a
+									trailer park baby
 								</p>
+
+								<button className="btn btn-light">
+									check this shit goofy ass
+								</button>
 							</div>
 						</div>
 					</div>
@@ -42,14 +45,15 @@ function App() {
 								src={saverImg}
 								alt="Card image cap"
 							/>
-							<div className="card-body">
+							<div className="card-body bg-dark">
 								<h5 className="card-title">Card titles</h5>
 								<p className="card-text">
-									This is a wider card with supporting text
-									below as a natural lead-in to additional
-									content. This content is a little bit
-									longer.
-								</p>							
+									these cards are underdeveloped just like a
+									trailer park baby
+								</p>
+								<button className="btn btn-light">
+									check this shit goofy ass
+								</button>
 							</div>
 						</div>
 					</div>
@@ -63,14 +67,15 @@ function App() {
 								src={saverImg}
 								alt="Card image cap"
 							/>
-							<div className="card-body">
+							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									This is a wider card with supporting text
-									below as a natural lead-in to additional
-									content. This content is a little bit
-									longer.
-								</p>							
+									these cards are underdeveloped just like a
+									trailer park baby
+								</p>
+								<button className="btn btn-light">
+									check this shit goofy ass
+								</button>
 							</div>
 						</div>
 					</div>
@@ -84,14 +89,15 @@ function App() {
 								src={saverImg}
 								alt="Card image cap"
 							/>
-							<div className="card-body">
+							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									This is a wider card with supporting text
-									below as a natural lead-in to additional
-									content. This content is a little bit
-									longer.
-								</p>							
+									these cards are underdeveloped just like a
+									trailer park baby
+								</p>
+								<button className="btn btn-light">
+									check this shit goofy ass
+								</button>
 							</div>
 						</div>
 					</div>
