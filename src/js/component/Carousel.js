@@ -37,8 +37,8 @@ function TheSlides(props) {
 						/>
 
 						<Carousel.Caption>
-							<h3>this ain't blues bruh</h3>
-							<p>fuck you</p>
+							<h3>this ain't blues </h3>
+							<p>pretty cool tho</p>
 						</Carousel.Caption>
 					</Carousel.Item>
 				</Carousel>

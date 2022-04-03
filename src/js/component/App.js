@@ -25,12 +25,11 @@ function App() {
 							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									these cards are underdeveloped just like a
-									trailer park baby
+									these cards are underdeveloped
 								</p>
 
 								<button className="btn btn-light">
-									check this shit goofy ass
+									check this out
 								</button>
 							</div>
 						</div>
@@ -48,11 +47,10 @@ function App() {
 							<div className="card-body bg-dark">
 								<h5 className="card-title">Card titles</h5>
 								<p className="card-text">
-									these cards are underdeveloped just like a
-									trailer park baby
+									these cards are underdeveloped
 								</p>
 								<button className="btn btn-light">
-									check this shit goofy ass
+									check this out
 								</button>
 							</div>
 						</div>
@@ -70,11 +68,10 @@ function App() {
 							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									these cards are underdeveloped just like a
-									trailer park baby
+									these cards are underdeveloped
 								</p>
 								<button className="btn btn-light">
-									check this shit goofy ass
+									check this out
 								</button>
 							</div>
 						</div>
@@ -92,11 +89,10 @@ function App() {
 							<div className="card-body bg-dark">
 								<h5 className="card-title">Card title</h5>
 								<p className="card-text">
-									these cards are underdeveloped just like a
-									trailer park baby
+									these cards are underdeveloped
 								</p>
 								<button className="btn btn-light">
-									check this shit goofy ass
+									check this out
 								</button>
 							</div>
 						</div>

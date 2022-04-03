@@ -12,7 +12,7 @@ const Home = () => {
 	return (
 		<div>
 			<Parallax bgImage={image1} strength={400}>
-				<div style={{ height: 900 }}>
+				<div style={{ height: 1000 }}>
 					<div className="inlineStuff">
 						<h1 className="text-center">welcome</h1>
 					</div>
